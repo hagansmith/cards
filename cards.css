@@ -1,3 +1,16 @@
 body {
 	background-color: turquoise;
 }
+
+#card {
+display: inline-flex;
+flex-wrap: wrap;
+justify-content: space-between;
+align-content: center;
+
+}
+
+.cardElement {
+	width: 300px;
+	border: 2px dotted lightgrey;
+}
