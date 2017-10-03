@@ -8,7 +8,7 @@ The cards exercise is an individual exercise in using Javascript to dynamically 
 
 User can input text and submit. Text is written to the DOM dynamically in card style along with a delete button to delete just that card.
 
-![DEMO](https://github.com/hagansmith/cards/blob/master/cards.gif)
+![DEMO](https://github.com/hagansmith/cards/blob/master/CARDS.gif)
 ## Project Requirements
 1. Create an HTML page that contains a text area and a button labeled *Create*.
 1. When the user enters in text into the text area and then clicks the create button, create a new card element in the DOM that includes it's own delete button. You decide the height/width of the card.
